@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShooterRPG.Enemies.EasyEnemy" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies\EasyEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Enemies.Enemy" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACCCAEAAADAAAQAAAACAAAAAAAAAAEABAAAAAAgA=</HashCode>
+      <FileName>Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShooterRPG.Enemies.HardEnemy" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies\HardEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Enemies.MediumEnemy" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies\MediumEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Heroes.Archer" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Archer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Heroes.Hero" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QARCCACIEAAADAAAAAAAAUQAAAgAAYBAEAAAIAgCAAg=</HashCode>
+      <FileName>Heroes\Hero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShooterRPG.Heroes.Mage" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Items.Health" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAABAA=</HashCode>
+      <FileName>Items\Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Items.Item" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Items.Wall" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Projectiles.Arrows" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectiles\Arrows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Projectiles.BasicSpell" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectiles\BasicSpell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Projectiles.MageSpell" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectiles\MageSpell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Projectiles.Projectile" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectiles\Projectile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShooterRPG.ChaosGame" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAEEAAAAAAAwAAAAAAAAQAAKBAEkgAQAEAAEABIAQ=</HashCode>
+      <FileName>ChaosGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.ContentLoadException" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoadException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Cursor" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cursor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShooterRPG.DrawableObject" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAEAAAIAAAgAgQAKAAAABAAAAABAAAAAAAACAAAU=</HashCode>
+      <FileName>DrawableObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShooterRPG.ListOfDrawableObjects" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQAAAAAQAAIAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListOfDrawableObjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Program" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.QueueExtensions" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>QueueExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterRPG.Spell" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Spell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ShooterRPG.ICreature" Collapsed="true">
+    <Position X="25.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAAACAAAAAAAAAABAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>ICreature.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShooterRPG.IDrawable" Collapsed="true">
+    <Position X="27.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShooterRPG.IMovable" Collapsed="true">
+    <Position X="29" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ShooterRPG.Content.Sprites" Collapsed="true">
+    <Position X="25.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAXAAAERBAAAIAAMAAAAAAAAAQAAQAFAgAAAIAAAA=</HashCode>
+      <FileName>Content\Sprites.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
